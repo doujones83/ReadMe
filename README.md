@@ -8,9 +8,9 @@ This is a ReadMe file for Github, I am learning Markdown.
 
 [Portfolio Site](http://www.doujones.com)
 
-1. Ecommerce React Site
-2. JavaScript/CSS Site
-3. [Reactjs Shoe Site] (https://shoes-react-app.netlify.app/)
+Ecommerce React Site
+JavaScript/CSS Site
+3. [Reactjs] (https://shoes-react-app.netlify.app/)
 
 --------------------------------------------------------
 
