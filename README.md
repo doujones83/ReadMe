@@ -1,4 +1,4 @@
-# Example Site
+# William Boswell's Github Introduction
 
 This is a ReadMe file for Github, I am learning Markdown.
 
