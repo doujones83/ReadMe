@@ -36,7 +36,6 @@ console.log(name)
 
 Tables of Knowledge
 
-| JavaScript | Reactjs |
-| -----------| --------|  
+| JavaScript | Reactjs |  
 | CSS | HTML | AWS | Azure |
 | GraphQL | Nodejs |
