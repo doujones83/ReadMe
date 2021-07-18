@@ -40,5 +40,4 @@ Tables of Knowledge
 | -----------| --------|  
 | CSS | HTML  | 
 | AWS | Azure |
-| ------------|
 | GraphQL | Nodejs |
