@@ -26,6 +26,6 @@ This is a ReadMe file for Github, I am learning Markdown.
 
 -------------------------
 
-JavaScript
+```JavaScript
 var name = "Will Boswell";
-console.log(name)
+console.log(name)```
