@@ -41,3 +41,7 @@ Tables of Knowledge
 | CSS | HTML  | 
 | AWS | Azure |
 | GraphQL | Nodejs |
+
+---------------------------
+
+>Consistency can take things a long ways
