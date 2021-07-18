@@ -34,10 +34,10 @@ console.log(name)
 
 ---------------------------
 
-Tables
+Tables of Knowledge
 
 | JavaScript | Reactjs |
 | -----------| --------|  
 | CSS | HTML | AWS | Azure |
-| --- | ---- | --- | ----- |
+| --- | ---- |
 | GraphQL | Nodejs |
