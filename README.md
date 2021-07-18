@@ -23,3 +23,9 @@ This is a ReadMe file for Github, I am learning Markdown.
 
 # Computer Picture
 ![Computer Image](https://learncodeonline.in/mascot.png "Computer User")
+
+-------------------------
+
+JavaScript
+var name = "Will Boswell";
+console.log(name)
