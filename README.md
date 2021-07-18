@@ -21,5 +21,5 @@ This is a ReadMe file for Github, I am learning Markdown.
 
 --------------------------------------
 
-Profile Picture
+# Computer Picture
 ![Computer Image](https://learncodeonline.in/mascot.png "Computer User")
