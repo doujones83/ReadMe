@@ -34,10 +34,10 @@ console.log(name)
 
 ---------------------------
 
-# Technologies have learned or learning #
+Tables
 
 | JavaScript | Reactjs |
-| --- | --- | --- 
-CSS | HTML | AWS | Azure |
-| --- | --- | --- 
-GraphQL | Nodejs |
+| -----------| --------|  
+| CSS | HTML | AWS | Azure |
+| --- | ---- | --- | ----- |
+| GraphQL | Nodejs |
