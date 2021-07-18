@@ -1,8 +1,11 @@
 # William Boswell's Github Introduction
 
-This is a ReadMe file for Github, I am learning Markdown.
+This is my Github ReadMe.md
 
 * This is the first ReadMe File
+
+~~Lazy~~
+~~Lackluster~~
 
 --------------------------------------------
 
@@ -44,4 +47,4 @@ Tables of Knowledge
 
 ---------------------------
 
->Consistency can take things a long ways
+> Consistency can take things a long ways
