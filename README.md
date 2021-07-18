@@ -18,3 +18,8 @@ This is a ReadMe file for Github, I am learning Markdown.
 
 * I built an ecommerce platform during my first role, that allows clients to purchase company products.
 * I built a payment processing platform that has allowed clients of a local company to process payments for their clients. Resulted in saving thousands of dollars.
+
+--------------------------------------------------------
+
+Profile Picture
+![William Boswell](https://photos.app.goo.gl/YfK3Dx5H1FTM1tpi7)
