@@ -23,7 +23,7 @@ I'm Will from USA and I have been working with technologies for a very long time
 --------------------------------------
 
 # Computer Picture
-![Computer Image](Photo by Josh Sorenson from Pexels "Computer User")
+![Computer Image](https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/ "Computer User")
 
 -------------------------
 
