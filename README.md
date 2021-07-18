@@ -38,6 +38,7 @@ Tables of Knowledge
 
 | JavaScript | Reactjs |
 | -----------| --------|  
-| CSS | HTML | AWS | Azure |
-| -----------| --------|
+| CSS | HTML  | 
+| AWS | Azure |
+| ------------|
 | GraphQL | Nodejs |
