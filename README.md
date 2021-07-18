@@ -34,4 +34,10 @@ console.log(name)
 
 ---------------------------
 
-Tec
+# Technologies have learned or learning #
+
+| JavaScript | Reactjs |
+| --- | --- | --- 
+CSS | HTML | AWS | Azure |
+| --- | --- | --- 
+GraphQL | Nodejs |
