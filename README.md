@@ -1,8 +1,8 @@
 # William Boswell's Github Introduction
 
-* Hello There
+Hello There 🙋🏾‍♂️
 
-* I'm Will from USA and I have been working with technologies for a very long time. I really enjoy learning languages, frameworks and different services. I also enjoy wireframing, ui, ux and design in a general context.
+I'm Will from USA and I have been working with technologies for a very long time. I really enjoy learning languages, frameworks and different services. I also enjoy wireframing, ui, ux and design in a general context.
 
 
 --------------------------------------------
@@ -23,7 +23,7 @@
 --------------------------------------
 
 # Computer Picture
-![Computer Image](https://learncodeonline.in/mascot.png "Computer User")
+![Computer Image](Photo by Josh Sorenson from Pexels "Computer User")
 
 -------------------------
 
